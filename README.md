@@ -6,4 +6,11 @@ GORT or Go Reusable Tools is a collection of utility functions for Go programs, 
 GORT is subdivided into packages which group related functions.
 
 ## Math
-- `comparison.go`: Min and Max
+- `comparison.go`:
+
+  - ```golang
+    Min(a, b int)
+    ```
+  - ```golang
+    Max(a, b int)
+    ```
